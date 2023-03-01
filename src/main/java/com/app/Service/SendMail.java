@@ -32,8 +32,8 @@ public class SendMail {
 	boolean test = false;
 
 	String toEmail = mailId;
-	final String fromEmail = "rp9322935@gmail.com";
-	final String password = "ibntxemqiybqnuee";
+	final String fromEmail = "sender mail-ID";
+	final String password = "sender_password";
 	
   
   // your host email smtp server details 
